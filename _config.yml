@@ -1,7 +1,44 @@
-title: Tianyu Zhao
+# _config.yml
 
-# Add this line instead:
-remote_theme: pages-themes/minimum@v0.2.0
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. You need to restart the server after making changes.
 
+# -- Site Settings ----------------------------------------------------------
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Your Name's Portfolio
+author: Your Name
+description: >- # this means to ignore newlines until "baseurl:"
+  PhD Student at UCI. Researching ethical AI, fairness, and privacy.
+  Welcome to my personal website!
+
+# -- Build Settings ---------------------------------------------------------
+# These settings are for the Jekyll build process.
+
+# The theme your site will use.
+remote_theme: pages-themes/minimal@v0.2.0
+
+# Plugins are Ruby gems that extend Jekyll's functionality.
 plugins:
-  - jekyll-remote-theme # Make sure this plugin is listed
+  - jekyll-remote-theme # Lets you use remote themes from GitHub
+  - jekyll-seo-tag    # Creates SEO metadata for your pages
+  # The 'github-pages' gem in your Gemfile already includes most other plugins you need.
+
+# -- Theme-Specific Settings (for the 'minimal' theme) ---------------------
+# These are settings used by the theme you've selected.
+
+# Set to true to show the banner with links to download the zip, tar, etc.
+# For a personal site, 'false' is usually better.
+show_downloads: false
+
+# -- Optional Settings ------------------------------------------------------
+
+# If you want to use Google Analytics, put your tracking ID here.
+# google_analytics: G-XXXXXXXXXX
