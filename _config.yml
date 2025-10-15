@@ -13,10 +13,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your Name's Portfolio
-author: Your Name
+title: Tianyu Zhao
+# author: Your Name
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD Student at UCI. Researching ethical AI, fairness, and privacy.
+  PhD Candidate at UCI. Researching ethical AI, fairness, and privacy.
   Welcome to my personal website!
 
 # -- Build Settings ---------------------------------------------------------
