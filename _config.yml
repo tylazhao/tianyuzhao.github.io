@@ -1,3 +1,7 @@
 title: Tianyu Zhao
 
-theme: jekyll-theme-minimum
+# Add this line instead:
+remote_theme: pages-themes/minimum@v0.2.0
+
+plugins:
+  - jekyll-remote-theme # Make sure this plugin is listed
