@@ -1,8 +1,9 @@
-``# Bio
+<nav># Bio
 
 
 ### Educations
 
-### Work Experience``
+### Work Experience
+<\nav>
 
-##To be updated soon
+``##To be updated soon
