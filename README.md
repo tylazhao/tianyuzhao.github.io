@@ -4,7 +4,7 @@
 ### Educations
 
 ### Work Experience
-<\nav>
+</nav>
 
-``##To be updated soon
+##To be updated soon
 [comment]: # (This actually is the most platform independent comment)
