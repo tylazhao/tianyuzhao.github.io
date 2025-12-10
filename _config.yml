@@ -1,4 +1,4 @@
-# _config.yml
+pon# _config.yml
 
 # Welcome to Jekyll!
 #
@@ -16,7 +16,7 @@
 title: Tianyu Zhao
 # author: Your Name
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD Candidate at UCI. Researching ethical AI, fairness, and privacy.
+  PhD Candidate at UCI. Preference Learning, Responsible AI, fairness, and privacy.
   Welcome to my personal website!
 
 # -- Build Settings ---------------------------------------------------------
